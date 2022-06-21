@@ -2,7 +2,7 @@ beautifulsoup4==4.6.0
 certifi==2018.4.16
 chardet==3.0.4
 idna==2.6
-numpy==1.14.4
+numpy==1.22.0
 qrcode==6.0
 requests==2.18.4
 six==1.11.0
